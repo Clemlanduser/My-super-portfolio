@@ -1,0 +1,124 @@
+p
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1
+{
+  text-shadow: 5px 5px 5px rgb(97, 216, 255);
+  font-family: sans-serif;
+}
+
+.myintro 
+{ 
+  border: 2px rgb(185, 237, 255) solid;
+  border-radius: 10px / 5px;
+  box-shadow: 6px 6px 6px lightgrey;
+  margin: 100px 100px 100px 100px;
+}
+
+h2
+{
+  font-family: calibri, lato, sans-serif 
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .menubar
+  {
+    justify-content: space-evenly;
+  }
+
+
+  .header nav {
+    display: inline;
+  }
+  
+  .body {
+    font-family: Arial, sans-serif; 
+  }
+
+  
+  body {
+    background-color: #fefcff;
+  }
+
+  h2 {
+    background-color: #ecd7ff ;
+    border-radius: 5%;
+    background-position: left;
+  }
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+    flex-wrap: wrap
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    flex-wrap: wrap
+  }
+  
+  .card {
+    padding: 20px 20px;
+    flex-wrap: wrap;
+  }
+
+  .yihah
+  {
+    Display: flex ;
+    Flex-wrap: wrap ;
+    justify-content: space-around ;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+ .content h1{
+  text-align: right;
+}
+
+.title{
+  background-color: #ffB777;
+  width: 100vw;
+  animation-name: titleColorChange;
+  animation-duration: 4s;
+  animation-iteration-count: 50;
+}
+
+@keyframes titleColorChange {
+  from { background-color: #fbf5f8 ;}
+  to { background-color: rgb(red, green, rgb(151, 151, 255));
+  
+}
+
+#intro img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+#card-container {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap:wrap;
+
+}
+
+.card{
+  margin: 20px;
+  width: 300px;
+  height: 100px;
+  border: 10px solid black; 
+}
+
+#container {
+
+
